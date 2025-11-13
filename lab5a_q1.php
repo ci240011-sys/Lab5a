@@ -12,7 +12,7 @@
         $address = " 84000 Muar,Johor";
     ?>
     
-    //table code
+    //table
     <table>
         <tr>
             <td>Name:</td>
