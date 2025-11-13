@@ -11,7 +11,8 @@
         $yearsStudy = " 3 years";
         $address = " 84000 Muar,Johor";
     ?>
-
+    
+    //table code
     <table>
         <tr>
             <td>Name:</td>
